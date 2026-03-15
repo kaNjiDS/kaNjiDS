@@ -18,51 +18,35 @@
 
 ---
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## About Me
 
-```python
-class KavinduAnjana:
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420"/>
+</p>
 
-    def __init__(self):
 
-        self.name = "Kavindu Anjana"
-        self.username = "kaNjiDS"
-        self.university = "University of Colombo"
-        self.degree = "BSc in Data Science"
-        self.location = "Sri Lanka"
 
-        self.interests = [
-            "Machine Learning",
-            "Data Analysis",
-            "Statistical Modeling",
-            "Data Visualization",
-            "Python Development"
-        ]
+### 💡 About Me
 
-    def say_hi(self):
-        print("Thanks for visiting. Let's collaborate!")
-
-me = KavinduAnjana()
-me.say_hi()
-```
-
-<br clear="right"/>
+- 🔬 Passionate about **Data Science and Artificial Intelligence**
+- 🤖 Interested in **Machine Learning and Deep Learning**
+- 🐍 Working mainly with **Python for data analysis**
+- 📊 Love transforming **data into insights**
+- 🚀 Currently exploring **ML models and data visualization**
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,r,java,cpp" />
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,r,java,cpp"/>
 
 ### Data Science and Machine Learning
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
 
-<br/>
+<br>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -71,17 +55,17 @@ me.say_hi()
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-### Databases and Tools
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux" />
+### Databases & Tools
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux"/>
 
-### Web
-<img src="https://skillicons.dev/icons?i=html,css,js,react,flask" />
+### Web Technologies
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flask"/>
 
 </div>
 
 ---
 
-# GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -91,31 +75,13 @@ me.say_hi()
 
 <br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaNjiDS&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaNjiDS&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# Data Science Skill Meter
-
-<div align="center">
-
-| Skill | Proficiency |
-|------|-------------|
-| Python | ████████████████████ 95% |
-| Machine Learning | ██████████████████░ 88% |
-| Data Analysis | ███████████████████░ 92% |
-| Data Visualization | █████████████████░░ 84% |
-| Statistical Modeling | ████████████████░░░ 80% |
-| Deep Learning | ██████████████░░░░░ 72% |
-| SQL | ████████████████████ 90% |
-
-</div>
-
----
-
-# Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -139,10 +105,12 @@ me.say_hi()
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0221,50:0a3d62,75:1a1a2e,100:16213e&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0221,50:0a3d62,75:1a1a2e,100:16213e&height=120&section=footer"/>
 
 <div align="center">
 
-⭐ Star my repositories if you find them useful
+⭐ **Star my repositories if you find them useful!** ⭐
+ 
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
 </div>
